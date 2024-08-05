@@ -49,3 +49,4 @@ function calcular() {
     document.getElementById("n3").value = " ";
   
   }
+  //STEVEN RODRIGUEZ T32321092
